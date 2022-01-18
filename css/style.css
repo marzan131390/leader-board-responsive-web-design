@@ -9,9 +9,12 @@ body {
     margin-left: 10px;
 }
 
+main .container{
+    background: #fff;
+}
+
 .top-player {
     margin-top: 40px;
-    background: #fff;
     padding: 40px 10px 25px 20px;
 }
 
@@ -20,7 +23,7 @@ body {
 }
 
 .top-player .row {
-    margin-bottom: 40px;
+    margin-bottom: 20px;
 }
 
 /* .player p {
@@ -28,7 +31,11 @@ body {
    margin-left: 15px;
 } */
 
+.player {
+    margin-top: 30px;
+}
+
 .player img {
     width: 56px;
-    margin-right: 20px;
+    /* margin-right: 20px; */
 }
