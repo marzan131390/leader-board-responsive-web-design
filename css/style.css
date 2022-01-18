@@ -1,0 +1,34 @@
+body {
+    background: #f3f1ff;
+}
+.navbar img {
+    width: 40px;
+}
+
+.navbar-nav a {
+    margin-left: 10px;
+}
+
+.top-player {
+    margin-top: 40px;
+    background: #fff;
+    padding: 40px 10px 25px 20px;
+}
+
+.top-player h2 {
+    margin-bottom: 50px;
+}
+
+.top-player .row {
+    margin-bottom: 40px;
+}
+
+/* .player p {
+   display: inline-block;
+   margin-left: 15px;
+} */
+
+.player img {
+    width: 56px;
+    margin-right: 20px;
+}
