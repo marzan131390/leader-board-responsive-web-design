@@ -39,3 +39,31 @@ main .container{
     width: 56px;
     /* margin-right: 20px; */
 }
+
+.blog {
+    margin: 20px 0px;
+    padding-left: 20px;
+}
+
+.blog-content {
+    padding-left: 20px;
+}
+
+.blog-content a {
+    padding-left: 5px;
+    text-decoration: none;
+}
+
+.footer-courses {
+    margin-top: 30px;
+    background-color: #fff;
+    padding-left: 30px;
+}
+
+.course-f-content {
+    margin-top: 20px;
+}
+
+.column-courses {
+    padding-left: 20px;
+}
